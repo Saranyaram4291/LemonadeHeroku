@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Lemonade Test Cases"
+           tests="15"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1586.095">
+  <properties />
+  
+  
+            <testcase name="TC05_My_SVIDS_Flow" time="179.681" classname="com.att.lemonade.testcases.TC05_My_SVIDS" />
+                <testcase name="TC05_My_SVIDS_Flow" time="73.012" classname="com.att.lemonade.testcases.TC05_My_SVIDS" />
+                <testcase name="TC05_My_SVIDS_Flow" time="175.447" classname="com.att.lemonade.testcases.TC05_My_SVIDS" />
+                <testcase name="TC05_My_SVIDS_Flow" time="78.961" classname="com.att.lemonade.testcases.TC05_My_SVIDS" />
+                <testcase name="TC05_My_SVIDS_Flow" time="85.745" classname="com.att.lemonade.testcases.TC05_My_SVIDS" />
+                <testcase name="TC05_My_SVIDS_Flow" time="180.761" classname="com.att.lemonade.testcases.TC05_My_SVIDS" />
+                <testcase name="TC05_My_SVIDS_Flow" time="78.374" classname="com.att.lemonade.testcases.TC05_My_SVIDS" />
+                <testcase name="TC05_My_SVIDS_Flow" time="79.209" classname="com.att.lemonade.testcases.TC05_My_SVIDS" />
+                <testcase name="TC05_My_SVIDS_Flow" time="79.743" classname="com.att.lemonade.testcases.TC05_My_SVIDS" />
+                <testcase name="TC05_My_SVIDS_Flow" time="175.248" classname="com.att.lemonade.testcases.TC05_My_SVIDS" />
+                <testcase name="TC05_My_SVIDS_Flow" time="79.002" classname="com.att.lemonade.testcases.TC05_My_SVIDS" />
+                <testcase name="TC05_My_SVIDS_Flow" time="80.156" classname="com.att.lemonade.testcases.TC05_My_SVIDS" />
+                <testcase name="TC05_My_SVIDS_Flow" time="79.523" classname="com.att.lemonade.testcases.TC05_My_SVIDS" />
+                <testcase name="TC05_My_SVIDS_Flow" time="78.152" classname="com.att.lemonade.testcases.TC05_My_SVIDS" />
+                <testcase name="TC05_My_SVIDS_Flow" time="83.081" classname="com.att.lemonade.testcases.TC05_My_SVIDS" />
+      
+</testsuite>

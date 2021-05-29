@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Lemonade Test Cases"
+           tests="25"
+           failures="0"
+           errors="0"
+           skipped="25"
+           time="4.589">
+  <properties />
+  
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+            <testcase name="TC07_My_Contacts_Flow" time="0.0" classname="com.att.lemonade.testcases.TC07_My_Contacts">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>

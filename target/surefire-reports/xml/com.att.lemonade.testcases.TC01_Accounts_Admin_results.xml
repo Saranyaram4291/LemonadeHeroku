@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Lemonade Test Cases"
+           tests="21"
+           failures="0"
+           errors="0"
+           skipped="21"
+           time="4.123">
+  <properties />
+  
+            <testcase name="TC01_Accounts_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC01_Accounts_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC01_Accounts_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC01_Accounts_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC01_Accounts_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC01_Accounts_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC01_Accounts_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC01_Accounts_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC01_Accounts_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC01_Accounts_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC01_Accounts_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC01_Accounts_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC01_Accounts_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC01_Accounts_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC01_Accounts_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC01_Accounts_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC01_Accounts_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC01_Accounts_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC01_Accounts_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC01_Accounts_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC01_Accounts_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC01_Accounts_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC01_Accounts_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC01_Accounts_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC01_Accounts_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC01_Accounts_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC01_Accounts_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC01_Accounts_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC01_Accounts_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC01_Accounts_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC01_Accounts_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC01_Accounts_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC01_Accounts_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC01_Accounts_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC01_Accounts_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC01_Accounts_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC01_Accounts_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC01_Accounts_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC01_Accounts_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC01_Accounts_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC01_Accounts_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC01_Accounts_Admin">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>

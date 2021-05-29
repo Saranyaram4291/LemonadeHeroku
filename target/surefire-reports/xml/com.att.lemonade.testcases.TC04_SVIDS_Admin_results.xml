@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Lemonade Test Cases"
+           tests="58"
+           failures="0"
+           errors="0"
+           skipped="58"
+           time="4.527">
+  <properties />
+  
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+            <testcase name="TC04_SVIDS_Admin_Flow" time="0.0" classname="com.att.lemonade.testcases.TC04_SVIDS_Admin">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>
