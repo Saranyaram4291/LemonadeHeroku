@@ -36,7 +36,7 @@ stages{
 						echo 'Compilation Completed.'
 				}
 				failure {		  
-				    sh 'echo "Dear All, \n\n\t The build for Lemonade Automation Code has failed. Please fix it urgently. Below is build URL. \n\t\t ${env.BUILD_URL} \n\nRegards, \n   Your Automation Buddy\n\n" > /tmp/automation${BUILD_NUMBER}.txt'
+				    sh 'echo "Dear All, \n\n\t The build for MyPrice Automation Code has failed. Please fix it urgently. Below is build URL. \n\t\t ${env.BUILD_URL} \n\nRegards, \n   Your Automation Buddy\n\n" > /tmp/automation${BUILD_NUMBER}.txt'
 					sh 'cat /tmp/automation${BUILD_NUMBER}.txt | /bin/mailx -s "[ Build Failure ] ]MyPrice Automation Test Build Failed-`date +%d_%m_%Y`.`date +%H.%M.%S`" -c "vk3768@att.com" "MYPriceRDCST@wwpdl.vnet.ibm.com"'
 					sh "rm /tmp/automation${BUILD_NUMBER}.txt"
 				}
